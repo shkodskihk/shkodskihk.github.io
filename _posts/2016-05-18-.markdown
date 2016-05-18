@@ -1,0 +1,6 @@
+---
+published: false
+title: первый пост
+layout: post
+---
+первый тестовый пост
