@@ -1,6 +1,0 @@
----
-published: true
-title: 1
-layout: post
----
-первый тестовый пост
