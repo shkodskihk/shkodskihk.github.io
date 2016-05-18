@@ -1,6 +1,0 @@
----
-published: true
-title: 1111
-layout: post
----
-1111
