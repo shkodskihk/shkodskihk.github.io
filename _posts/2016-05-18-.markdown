@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: первый пост
 layout: post
 ---
